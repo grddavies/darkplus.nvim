@@ -34,4 +34,8 @@ return {
   diff_change = '#0c7d9d',
   diff_delete = '#94151b',
   diff_text = '#265478',
+  bracket_1 = '#FFD700',
+  bracket_2 = '#DA70D6',
+  bracket_3 = '#179FFF',
+  bracket_err = '#FF1111'
 }
